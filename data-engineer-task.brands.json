@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "660b15af4b0ad6e3804d6697"
+  },
+  "brandName": "Borer Group",
+  "yearFounded": 2024,
+  "headquarters": "Lake Letitia",
+  "numberOfLocations": 10,
+  "createdAt": {
+    "$date": "2024-04-01T20:14:39.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:14:39.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15af4b0ad6e3804d669f"
+  },
+  "brandName": "Mills, Jacobson and Pacocha",
+  "yearFounded": 2023,
+  "headquarters": "New Ryann",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:14:39.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:14:39.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15af4b0ad6e3804d66a6"
+  },
+  "brandName": "Olson Group",
+  "yearFounded": 2024,
+  "headquarters": "Jacobsonstead",
+  "numberOfLocations": 9,
+  "createdAt": {
+    "$date": "2024-04-01T20:14:39.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:14:39.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15af4b0ad6e3804d66a9"
+  },
+  "brandName": "Little, Swift and Klein",
+  "yearFounded": 2024,
+  "headquarters": "Minot",
+  "numberOfLocations": 5,
+  "createdAt": {
+    "$date": "2024-04-01T20:14:39.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:14:39.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15d6ee860fc3da349cc9"
+  },
+  "brandName": "Effertz - Jaskolski",
+  "yearFounded": 2024,
+  "headquarters": "South Anastacioville",
+  "numberOfLocations": 5,
+  "createdAt": {
+    "$date": "2024-04-01T20:15:18.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:15:18.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15d6ee860fc3da349ccf"
+  },
+  "brandName": "Grimes, Gulgowski and Heller",
+  "yearFounded": 2024,
+  "headquarters": "Huntersville",
+  "numberOfLocations": 7,
+  "createdAt": {
+    "$date": "2024-04-01T20:15:18.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:15:18.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15d6ee860fc3da349cd2"
+  },
+  "brandName": "Conn, Schuppe and Schneider",
+  "yearFounded": 2024,
+  "headquarters": "Waterloo",
+  "numberOfLocations": 4,
+  "createdAt": {
+    "$date": "2024-04-01T20:15:18.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:15:18.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b15d6ee860fc3da349cdd"
+  },
+  "brandName": "Bernier and Sons",
+  "yearFounded": 2024,
+  "headquarters": "Eusebioside",
+  "numberOfLocations": 9,
+  "createdAt": {
+    "$date": "2024-04-01T20:15:18.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:15:18.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearFounded": 1970,
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "yearFounded": 1980,
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "headquarters": "DuBuqueburgh",
+  "numberOfLocations": 9200,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "brandName": "Licensed Concrete Tuna",
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-01T20:37:20.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T20:37:20.685Z"
+  },
+  "__v": 0
+}]
